@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## 欢迎来到悟空的代码博客
 
-You can use the [editor on GitHub](https://github.com/pearxiang/wukong.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 关于我
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+前百度er，做过爬虫，知识图谱，做过数据，策略，算法，擅长后端工程。
+从毕业时对代码的懵懂，到如今的一知半解，偶有所得。从业多年，一事无成，在这里回望下我的过往，记录下以后。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pearxiang/wukong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
